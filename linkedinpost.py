@@ -6,7 +6,7 @@ import google.generativeai as genai
 import streamlit as st
 
 # Configuration: Hardcoded API Key and Model Name
-API_KEY = "AIzaSyBbZJDUN6T9I9moSs71Sc1Bql1t6rtPQEc"  # Replace with your Gemini Flash 1.5 API key
+API_KEY = "Your API"  # Replace with your Gemini Flash 1.5 API key
 MODEL_NAME = "gemini-1.5-flash"  # The model name you want to use
 
 # Initialize the Gemini Flash 1.5 model
